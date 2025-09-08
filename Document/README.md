@@ -103,7 +103,7 @@ ResolveNow digitizes the complaint lifecycle. Users can register complaints, age
 ## 🔧 Setup & Installation
 ```bash
 # Clone repo
-git clone https://github.com/Thanuja200/resolve-now.git
+git clone https://github.com/Thanuja200/Resolve-now.git
 
 # Navigate to backend
 cd backend
